@@ -1,7 +1,6 @@
 # 【Pahud Dev】EP11 - Getting Started with AWS CDK in Python
 
-![](https://img.youtube.com/vi/LGXDKA7Zp7Q/maxresdefault.jpg)
-https://www.youtube.com/watch?v=LGXDKA7Zp7Q
+[![【Pahud Dev】EP11 - Getting Started with AWS CDK in Python (4K 2160p)](http://img.youtube.com/vi/LGXDKA7Zp7Q/0.jpg)](http://www.youtube.com/watch?v=LGXDKA7Zp7Q "【Pahud Dev】EP11 - Getting Started with AWS CDK in Python (4K 2160p)")
 
 
 # Deploy Steps
