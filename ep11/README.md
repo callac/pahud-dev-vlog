@@ -1,4 +1,4 @@
-# Pahud DEV VLOG EP11
+# 【Pahud Dev】EP11 - Getting Started with AWS CDK in Python
 
 ![](https://img.youtube.com/vi/LGXDKA7Zp7Q/maxresdefault.jpg)
 https://www.youtube.com/watch?v=LGXDKA7Zp7Q
