@@ -2,7 +2,7 @@
 
 A collection of all demo artifacts from the [Pahud Dev](https://pahud.dev) VLOG.
 
-# published videos
+# Published Videos
 
 - EP01 [AWS Cloud9輕鬆上手](https://youtu.be/e6b3TQ7_CHg)
 - EP02 [十年磨一劍，讓你的ASG也吹起混搭風](https://youtu.be/BLVXBnqLy-A)
