@@ -1,4 +1,4 @@
-# pahud-dev-vlog
+# Pahud DEV VLOG
 
 A collection of all demo artifacts from the [Pahud Dev](https://pahud.dev) VLOG.
 
