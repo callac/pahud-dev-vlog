@@ -9,10 +9,9 @@
 # enter virtual env
 $ source .env/bin/activate
 $ pip install -r requirements.txt
+# bootstrap only for the first time for the target region
+$ cdk bootstrap
 $ cdk diff
 $ cdk deploy
 $ cdk destroy
 ```
-
-
-Enjoy!
