@@ -1,14 +1,16 @@
-# Welcome to your CDK TypeScript project!
+# EP13 - 立即開箱 AWS CDK 1.32.0 for Amazon EKS Managed Nodegroup
 
-This is a blank project for TypeScript development with CDK.
+[![【Pahud Dev】EP13 - 立即開箱 AWS CDK 1.32.0 for Amazon EKS Managed Nodegroup](http://img.youtube.com/vi/Qgz0LrVvTqU/0.jpg)](http://www.youtube.com/watch?v=Qgz0LrVvTqU "【Pahud Dev】EP13 - 立即開箱 AWS CDK 1.32.0 for Amazon EKS Managed Nodegroup")
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
-## Useful commands
+# Deploy Steps
 
- * `npm run build`   compile typescript to js
- * `npm run watch`   watch for changes and compile
- * `npm run test`    perform the jest unit tests
- * `cdk deploy`      deploy this stack to your default AWS account/region
- * `cdk diff`        compare deployed stack with current state
- * `cdk synth`       emits the synthesized CloudFormation template
+```bash
+# install packages from package.json
+$ npm i
+# bootstrap only for the first time for the target region
+$ cdk bootstrap
+$ cdk diff
+$ cdk deploy
+$ cdk destroy
+```
