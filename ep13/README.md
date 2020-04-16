@@ -1,6 +1,8 @@
 # EP13 - 立即開箱 AWS CDK 1.32.0 for Amazon EKS Managed Nodegroup
 
-[![【Pahud Dev】EP13 - 立即開箱 AWS CDK 1.32.0 for Amazon EKS Managed Nodegroup](http://img.youtube.com/vi/Qgz0LrVvTqU/0.jpg)](http://www.youtube.com/watch?v=Qgz0LrVvTqU "【Pahud Dev】EP13 - 立即開箱 AWS CDK 1.32.0 for Amazon EKS Managed Nodegroup")
+![](https://img.youtube.com/vi/Qgz0LrVvTqU/maxresdefault.jpg)
+https://youtu.be/Qgz0LrVvTqU
+
 
 
 # Deploy Steps
