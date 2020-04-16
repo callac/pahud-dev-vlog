@@ -17,4 +17,4 @@ A collection of all demo artifacts from the [Pahud Dev](https://pahud.dev) VLOG.
 - EP11 [Getting Started with AWS CDK in Python](https://youtu.be/LGXDKA7Zp7Q)
 - EP12 [立即開箱 Lens - The Kubernetes IDE with AWS CDK and Amazon EKS](https://youtu.be/RAmBS222U2U)
 - EP13 [立即開箱 AWS CDK 1.32.0 for Amazon EKS Managed Nodegroup](https://youtu.be/Qgz0LrVvTqU)
-
+- EP14 [立即開箱 Eclipse Theia Cloud IDE](https://youtu.be/h7VSNBVt09A)
