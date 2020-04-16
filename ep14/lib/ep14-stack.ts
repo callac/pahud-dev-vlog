@@ -3,7 +3,6 @@ import * as ec2 from '@aws-cdk/aws-ec2';
 import * as ecs from '@aws-cdk/aws-ecs';
 import * as acm from '@aws-cdk/aws-certificatemanager';
 import * as elbv2 from '@aws-cdk/aws-elasticloadbalancingv2';
-import { SIGABRT } from 'constants';
 
 export class Ep14Stack extends cdk.Stack {
   constructor(scope: cdk.Construct, id: string, props?: cdk.StackProps) {
