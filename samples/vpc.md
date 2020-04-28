@@ -18,12 +18,12 @@ by specifying any vpc id. If I really need to create a new one, I prefer the sha
 Sample
 
 ```sh
-# deply in the default vpc
+# deploy in the default vpc
 $ AWS_REGION={SPECIFIC_REGION} cdk deploy -c use_default_vpc=1
 
-# deply in a specific existing vpc
+# deploy in a specific existing vpc
 $ AWS_REGION={SPECIFIC_REGION} cdk deploy -c use_vpc_id=vpc-1f5b7e78
 
-# deply in a new vpc with shared NAT gateway
+# deploy in a new vpc with shared NAT gateway
 $ AWS_REGION={SPECIFIC_REGION} cdk deploy
 ```
