@@ -8,7 +8,7 @@ by specifying any vpc id. If I really need to create a new one, I prefer the sha
 
 ```ts
  // use an existing vpc or create a new one
- const vpc = this.node.tryGetContext('use_default_vpc') === 1 ?
+ const vpc = this.node.tryGetContext('use_default_vpc') === '1' ?
    ec2.Vpc.fromLookup(this, 'Vpc', { isDefault: true }) :
    this.node.tryGetContext('use_vpc_id') ?
      ec2.Vpc.fromLookup(this, 'Vpc', { vpcId: this.node.tryGetContext('use_vpc_id') }) :
