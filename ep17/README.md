@@ -1,14 +1,17 @@
-# Welcome to your CDK TypeScript project!
+# EP17 - 立即開箱 Amazon API Gateway HTTP API with AWS CDK
 
-This is a blank project for TypeScript development with CDK.
+![](https://img.youtube.com/vi/9Jr928vb1Yc/maxresdefault.jpg)
+https://youtu.be/9Jr928vb1Yc
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
-## Useful commands
+# Deploy Steps
 
- * `npm run build`   compile typescript to js
- * `npm run watch`   watch for changes and compile
- * `npm run test`    perform the jest unit tests
- * `cdk deploy`      deploy this stack to your default AWS account/region
- * `cdk diff`        compare deployed stack with current state
- * `cdk synth`       emits the synthesized CloudFormation template
+```bash
+# install packages from package.json
+$ npm i
+# bootstrap only for the first time for the target region
+$ cdk bootstrap
+$ cdk diff -c use_default_vpc=1
+$ cdk deploy -c use_default_vpc=1
+$ cdk destroy
+```
