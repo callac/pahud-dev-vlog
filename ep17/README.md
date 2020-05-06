@@ -11,7 +11,7 @@ https://youtu.be/9Jr928vb1Yc
 $ npm i
 # bootstrap only for the first time for the target region
 $ cdk bootstrap
-$ cdk diff -c use_default_vpc=1
-$ cdk deploy -c use_default_vpc=1
+$ cdk diff
+$ cdk deploy
 $ cdk destroy
 ```
